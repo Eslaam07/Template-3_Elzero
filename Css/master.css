@@ -165,16 +165,6 @@ header h5 a {
   color: var(--main-color);
 }
 
-/* header nav li {
-    padding: 20px;
-}
-header nav li a {
-    color: black;
-    font-weight: 600;
-} */
-/* ممكن ابدلها بالحاجات دي .. كل دا عشان حوار ان اللينك يبقى واخد المساحة كلها 
-فلازم ال ال  اي يبقى ليه هايت وويدث مش بادينج خالص وطبعاً بعدها اروح اخلي اللينك ياخد
-مساحة ( ويدث وهايت ) 100 في المية*/
 header nav li {
   width: 100px;
   height: 70px;
